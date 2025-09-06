@@ -69,10 +69,10 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-START_IMG = (environ.get('START_IMG', 'https://envs.sh/iUg.jpg https://envs.sh/iUa.jpg https://envs.sh/iUO.jpg https://envs.sh/iUX.jpg')).split()
+START_IMG = (environ.get('START_IMG', 'https://graph.org/file/be99037d464173cce1399-6973a0605b61cb4e47.jpg https://graph.org/file/78300666d82ace3fcd36d-e5be370804efc7a476.jpg https://graph.org/file/74b395eecf8a46218a0c7-1af0314d1d0f33c317.jpg https://graph.org/file/1313fec3b642bdffc26d0-1b40fee7bf9ef2ee0a.jpg')).split()
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/PSI.jpg")).split() 
-PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/il2.jpg')).split()
+PAYPICS = (environ.get('PAYPICS', 'https://graph.org/file/580377606644c8a8baf78-bfe956aa536815e2b3.jpg')).split()
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/9f3f47c690bbcc67633c2.jpg'))
 REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
 #---------------------------------------------------------------
