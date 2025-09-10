@@ -115,7 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b><a href="https://telegram.me/Requiest_your_faw">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+A_p2XwI6s0A5MDY1">[ sᴇᴄᴜʀᴇ 🔐 ]</a></b>"""
+    FILE_CAPTION = """<b><a href="https://telegram.me/Requiest_your_faw">{filename}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+A_p2XwI6s0A5MDY1">[ sᴇᴄᴜʀᴇ 🔐 ]</a></b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
@@ -375,6 +375,7 @@ developer : Mr.Jisshu
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/IM_JISSHU">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/IM_JISSHU">ᴀᴅᴍɪɴ</a></b>"""
+
 
 
 
