@@ -118,7 +118,7 @@ User - {}"""
     FILE_CAPTION = """<b>{file_name}\n\n𝐌𝐚𝐢𝐧 𝐆𝐫𝐨𝐮𝐩 🐉<a href="https://t.me/+A_p2XwI6s0A5MDY1">[ sᴇᴄᴜʀᴇ 🔐 ]</a></b>"""
     
 
-    ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
+    ALRT_TXT = """Uᴛɴɪ ʙʜɪ ᴋʏᴀᴀ Jᴀʟᴅɪ ʜᴀɪ Rᴜᴋᴏ ᴢᴀʀᴀ 😂"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
@@ -375,6 +375,7 @@ developer : Mr.Jisshu
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/IM_JISSHU">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/IM_JISSHU">ᴀᴅᴍɪɴ</a></b>"""
+
 
 
 
