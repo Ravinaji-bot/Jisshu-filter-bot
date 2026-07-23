@@ -118,7 +118,7 @@ User - {}"""
     FILE_CAPTION = """<b><a href="https://telegram.me/Requiest_your_faw">{file_name}\n\n🐲</a></b>\n\n<b>⚜️ Powered By :<a href="https://t.me/+A_p2XwI6s0A5MDY1">[@MagicOfGroup]</a></b>"""
     
 
-    ALRT_TXT = """Uᴛɴɪ ʙʜɪ ᴋʏᴀᴀ Jᴀʟᴅɪ ʜᴀɪ Rᴜᴋᴏ ᴢᴀʀᴀ 😂"""
+    ALRT_TXT = """Hey {}! Yeh aapka search result nahi hai. Kripya khud movie search karein"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
